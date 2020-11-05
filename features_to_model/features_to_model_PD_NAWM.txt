@@ -1,0 +1,3 @@
+original_gldm_LargeDependenceHighGrayLevelEmphasis
+original_glcm_ClusterProminence
+original_glcm_ClusterShade

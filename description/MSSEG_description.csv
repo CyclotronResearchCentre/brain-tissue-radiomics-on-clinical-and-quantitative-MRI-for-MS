@@ -1,0 +1,16 @@
+sub,name,age,gender,center
+training patient 01,01016SACH,36,F,1
+training patient 02,01038PAGU,41,M,1
+training patient 03,01039VITE,26,F,1
+training patient 04,01040VANE,48,F,1
+training patient 05,01042GULE,24,F,1
+training patient 01,07001MOEL,53,M,7
+training patient 02,07003SATH,42,F,7
+training patient 03,07010NABO,36,F,7
+training patient 04,07040DORE,52,F,7
+training patient 05,07043SEME,36,M,7
+training patient 01,08002CHJE,54,M,8
+training patient 02,08027SYBR,55,F,8
+training patient 03,08029IVDI,35,M,8
+training patient 04,08031SEVE,38,M,8
+training patient 05,08037ROGU,48,M,8

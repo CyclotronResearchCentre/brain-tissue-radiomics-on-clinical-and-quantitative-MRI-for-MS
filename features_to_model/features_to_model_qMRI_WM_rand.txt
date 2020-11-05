@@ -1,0 +1,3 @@
+MT_glszm_SizeZoneNonUniformityNormalized
+MT_firstorder_Range
+R1_firstorder_Maximum
