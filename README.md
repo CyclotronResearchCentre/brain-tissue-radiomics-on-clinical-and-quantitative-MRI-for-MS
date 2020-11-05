@@ -14,6 +14,6 @@ Elizaveta Lavrova, Henry C. Woodruff,  Pierre Maquet, Eric Salmon, Emilie Lommer
 * features_analysis - results of the preliminary features analysis in .csv,
 * names - .txt files with names of the participants from DS1, DS2, and DS3 and names of the participants from DS1, distributed between train and test subsets,  
 * features_to_model - .txt files with feature names, used in each image type/ROI model,  
-* performance - performance metrics, obtained with each bootstrap step for each model (not shared, to be generated),  
-* outcomes - real/predicted outcome values for each bootstrap step for each model (not shared, to be generated),  
+* performance - performance metrics, obtained with each bootstrap step for each model (not shared because of the big size, to be generated),  
+* outcomes - real/predicted outcome values for each bootstrap step for each model (not shared  because of the big size, to be generated),  
 * scripts - python scripts with analysis pipeline.
