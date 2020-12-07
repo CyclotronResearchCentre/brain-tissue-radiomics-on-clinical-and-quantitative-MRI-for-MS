@@ -1,4 +1,6 @@
-# Exploration-of-brain-tissue-radiomics-on-clinical-and-quantitative-MRI-for-MS
+# Exploratory radiomic analysis of clinical versus quantitative brain MRI: Towards objective decision support systems for multiple sclerosis
+
+https://doi.org/10.5281/zenodo.4275545
   
 Elizaveta Lavrova, Henry C. Woodruff,  Pierre Maquet, Eric Salmon, Emilie Lommers, Philippe Lambin, Christophe Phillips  
   
