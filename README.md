@@ -10,12 +10,14 @@ Elizaveta Lavrova, Henry C. Woodruff,  Pierre Maquet, Eric Salmon, Emilie Lommer
 <b>Conclusion</b>. This exploratory study indicates that qMRI Radiomics could provide efficient diagnostic information using NAWM and GM analysis in MSP. T1w radiomics could eventually be useful for rapid check of clinical MRI for WM abnormalities once acquisition and reconstruction heterogeneities have been overcome. Further research is needed, involving more data, for better interpretation and generalization of the results.  
 
 <b>Project structure</b>:  
-* CRC, CC359, MSSEG - imaging data (not shared),  
-* description - .csv files with the demographic information about the participants (age, gender),  
-* features - .csv files with extracted feature values,    
-* features_analysis - results of the preliminary features analysis in .csv,
-* names - .txt files with names of the participants from DS1, DS2, and DS3 and names of the participants from DS1, distributed between train and test subsets,  
-* features_to_model - .txt files with feature names, used in each image type/ROI model,  
-* performance - performance metrics, obtained with each bootstrap step for each model (not shared because of the big size, to be generated),  
-* outcomes - real/predicted outcome values for each bootstrap step for each model (not shared  because of the big size, to be generated),  
-* scripts - python scripts with analysis pipeline.
+* data:
+    * CRC, CC359, MSSEG - imaging data (not shared),  
+    * description - .csv files with the demographic information about the participants (age, gender),  
+* results:
+    * features - .csv files with extracted feature values,    
+    * features_analysis - results of the preliminary features analysis in .csv,
+    * names - .txt files with names of the participants from DS1, DS2, and DS3 and names of the participants from DS1, distributed between train and test subsets,  
+    * features_to_model - .txt files with feature names, used in each image type/ROI model,  
+    * performance - performance metrics, obtained with each bootstrap step for each model (not shared because of the big size, to be generated),  
+    * outcomes - real/predicted outcome values for each bootstrap step for each model (not shared  because of the big size, to be generated),  
+* src - python scripts with analysis pipeline.
