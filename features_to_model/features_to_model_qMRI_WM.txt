@@ -1,3 +1,0 @@
-PD_gldm_LargeDependenceHighGrayLevelEmphasis
-R1_firstorder_Kurtosis
-MT_firstorder_Minimum

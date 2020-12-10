@@ -1,3 +1,0 @@
-original_firstorder_90Percentile
-original_ngtdm_Strength
-original_firstorder_TotalEnergy

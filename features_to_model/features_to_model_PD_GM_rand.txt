@@ -1,3 +1,0 @@
-original_gldm_DependenceEntropy
-original_glszm_SizeZoneNonUniformityNormalized
-original_glcm_ClusterShade

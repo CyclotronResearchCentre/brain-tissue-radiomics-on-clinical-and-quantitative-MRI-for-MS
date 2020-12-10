@@ -1,0 +1,3 @@
+R1_firstorder_Minimum
+R1_firstorder_TotalEnergy
+MT_gldm_SmallDependenceLowGrayLevelEmphasis

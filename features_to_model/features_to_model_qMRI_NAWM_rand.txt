@@ -1,3 +1,0 @@
-R1_firstorder_Skewness
-R1_ngtdm_Strength
-R2_firstorder_Range

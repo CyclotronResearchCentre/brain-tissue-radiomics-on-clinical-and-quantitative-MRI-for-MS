@@ -1,0 +1,3 @@
+R1_glcm_ClusterProminence
+R2_gldm_DependenceEntropy
+R2_firstorder_Minimum

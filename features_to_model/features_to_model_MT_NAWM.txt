@@ -1,3 +1,0 @@
-original_gldm_LargeDependenceHighGrayLevelEmphasis
-original_ngtdm_Complexity
-original_firstorder_TotalEnergy

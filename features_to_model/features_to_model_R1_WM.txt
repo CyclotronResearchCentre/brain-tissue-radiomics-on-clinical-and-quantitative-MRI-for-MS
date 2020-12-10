@@ -1,3 +1,0 @@
-original_firstorder_Kurtosis
-original_glcm_ClusterShade
-original_glcm_MCC

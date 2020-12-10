@@ -1,3 +1,0 @@
-original_glrlm_GrayLevelNonUniformity
-original_ngtdm_Busyness
-original_glszm_SizeZoneNonUniformityNormalized

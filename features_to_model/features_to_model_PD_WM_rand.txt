@@ -1,3 +1,0 @@
-original_glcm_MCC
-original_firstorder_Median
-original_ngtdm_Strength

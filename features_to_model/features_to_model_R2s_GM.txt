@@ -1,3 +1,0 @@
-original_gldm_LowGrayLevelEmphasis
-original_firstorder_Median
-original_firstorder_TotalEnergy

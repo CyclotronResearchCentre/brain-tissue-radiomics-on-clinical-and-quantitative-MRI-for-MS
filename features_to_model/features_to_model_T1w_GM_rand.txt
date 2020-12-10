@@ -1,3 +1,0 @@
-original_firstorder_Minimum
-original_glszm_SmallAreaLowGrayLevelEmphasis
-original_glrlm_RunLengthNonUniformity

@@ -1,3 +1,0 @@
-original_glszm_HighGrayLevelZoneEmphasis
-original_ngtdm_Busyness
-original_firstorder_Variance

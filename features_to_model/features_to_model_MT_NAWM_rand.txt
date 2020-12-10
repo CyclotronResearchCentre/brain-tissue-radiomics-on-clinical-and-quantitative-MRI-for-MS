@@ -1,3 +1,0 @@
-original_gldm_SmallDependenceHighGrayLevelEmphasis
-original_ngtdm_Busyness
-original_gldm_LargeDependenceHighGrayLevelEmphasis

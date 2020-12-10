@@ -1,3 +1,0 @@
-R1_firstorder_Minimum
-MT_firstorder_Kurtosis
-PD_glcm_ClusterProminence

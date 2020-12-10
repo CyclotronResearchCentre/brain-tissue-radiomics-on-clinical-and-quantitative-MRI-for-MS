@@ -1,3 +1,0 @@
-original_firstorder_Range
-original_gldm_DependenceVariance
-original_firstorder_Skewness

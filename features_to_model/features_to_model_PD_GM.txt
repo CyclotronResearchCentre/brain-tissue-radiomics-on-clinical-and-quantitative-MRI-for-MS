@@ -1,3 +1,0 @@
-original_firstorder_10Percentile
-original_firstorder_InterquartileRange
-original_firstorder_Skewness

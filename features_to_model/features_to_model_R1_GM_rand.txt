@@ -1,3 +1,0 @@
-original_glcm_ClusterShade
-original_firstorder_RobustMeanAbsoluteDeviation
-original_firstorder_Kurtosis

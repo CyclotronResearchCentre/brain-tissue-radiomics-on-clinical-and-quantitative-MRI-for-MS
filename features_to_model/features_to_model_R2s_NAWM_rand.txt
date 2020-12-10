@@ -1,3 +1,0 @@
-original_firstorder_Range
-original_gldm_DependenceEntropy
-original_firstorder_90Percentile

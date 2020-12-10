@@ -1,3 +1,0 @@
-original_gldm_SmallDependenceLowGrayLevelEmphasis
-original_firstorder_90Percentile
-original_glszm_LargeAreaHighGrayLevelEmphasis
