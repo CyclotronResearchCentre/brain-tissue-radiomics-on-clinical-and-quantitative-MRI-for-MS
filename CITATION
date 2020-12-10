@@ -1,0 +1,9 @@
+# If you are using the scripts, you must cite:
+@article{brain-tissue-radiomics-on-clinical-and-quantitative-MRI-for-MS,
+   author = "Elizaveta Lavrova, Henry C. Woodruff, Pierre Maquet, Eric Salmon, Emilie Lommers, Philippe Lambin, Christophe Phillips"
+   title = "Exploratory radiomic analysis of clinical versus quantitative brain MRI: Towards objective decision support systems for multiple sclerosis",
+   year = "2020",
+   month = "12",
+   publisher = "zenodo",
+   url = "https://doi.org/10.5281/zenodo.4275545"
+}
